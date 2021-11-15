@@ -1,5 +1,5 @@
 # A Git tutorial
-
+### User: Jenny
 This repository contains tutorial information related to the **NBIS/ELIXIR** course
 *Tools for Reproducible Research*, specifically the session on using the `git`
 software for version control.
