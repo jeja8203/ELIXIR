@@ -1,0 +1,8 @@
+# Ignore these directories
+results/
+intermediate/
+data/*
+
+# Ignore temporary files
+*.tmp
+!data/metadata.txt
